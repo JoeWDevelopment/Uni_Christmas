@@ -1,0 +1,12 @@
+{
+"companyName": "Uniform",
+"productName": "WebGLTest",
+"dataUrl": "Test8.data.unityweb",
+"wasmCodeUrl": "Test8.wasm.code.unityweb",
+"wasmFrameworkUrl": "Test8.wasm.framework.unityweb",
+"TOTAL_MEMORY": 83886080,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
